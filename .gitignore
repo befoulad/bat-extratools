@@ -1,0 +1,17 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.a
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Log files
+*.log
