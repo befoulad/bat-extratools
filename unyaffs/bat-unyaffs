@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 '''
 Yaffs2 unpacker reimplemention, heavily borrowing from unyaffs created
